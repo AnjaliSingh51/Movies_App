@@ -24,3 +24,4 @@ export const fetchMovieDetails = async (id) => {
     return null;
   }
 };
+

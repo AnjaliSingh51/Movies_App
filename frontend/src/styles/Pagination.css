@@ -1,0 +1,30 @@
+/* .pagination-nav {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination {
+    display: flex;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pagination button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ff416c;
+    background: #2c2c2c;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .pagination button.active {
+    background: #ff416c;
+    font-weight: bold;
+  }
+  
+  .pagination button:hover:not(.active) {
+    background: #3c3c3c;
+  } */
